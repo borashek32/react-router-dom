@@ -1,0 +1,21 @@
+.wrapperLayout {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.container {
+  height: 300px;
+  width: 100%;
+  background-color: rgb(158, 198, 247);
+  text-align: center;
+  padding: 20px;
+}
