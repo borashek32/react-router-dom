@@ -1,4 +1,4 @@
 export const NewBook = () => {
 
-  return <h1>NewBook</h1>
+  return <h1>New Book</h1>
 }

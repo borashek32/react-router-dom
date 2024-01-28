@@ -13,9 +13,28 @@
 }
 
 .container {
-  height: 300px;
+  height: 100%;
   width: 100%;
   background-color: rgb(158, 198, 247);
   text-align: center;
   padding: 20px;
+}
+
+.link {
+  color: black;
+  font-weight: 500;
+}
+
+.active {
+  color: red;
+  font-weight: 600;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100%;
+  background-color: blanchedalmond;
 }
